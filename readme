@@ -2,25 +2,6 @@
 Code of SIGFusion: Semantic Information-Guided Infrared and Visible Image Fusion
 
 
-## Tips:<br>
-**1. Testing**
-
-If you want to infer with our SIGFusion and obtain the fusion results in our paper, please run
-
-```
-python test.py
-```
-
-Then, the fused results will be saved in the ``'./Results/'`` folder.
-
-
-
-**2. Training**
-```
-python train.py
-```
-
-<br>
 
 If this work is helpful to you, please cite it as:
 ```
