@@ -1,5 +1,8 @@
-# SIGFusion
-Code of SIGFusion: Semantic Information-Guided Infrared and Visible Image Fusion
+
+## SIGFusion [TIM 2024]
+SIGFusion: Semantic Information-Guided Infrared and Visible Image Fusion
+
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10677347)
 
 
 ## Tips:<br>
