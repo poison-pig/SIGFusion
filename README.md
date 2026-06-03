@@ -27,7 +27,7 @@ python train.py
 
 If this work is helpful to you, please cite it as:
 ```
-@ARTICLE{SIGFusion_2024_TIM,,
+@ARTICLE{SIGFusion_2024_TIM,
   author={Lv, Guohua and Sima, Chaoqun and Gao, Yongbiao and Dong, Aimei and Ma, Guangxiao and Cheng, Jinyong},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={SIGFusion: Semantic Information-Guided Infrared and Visible Image Fusion}, 
